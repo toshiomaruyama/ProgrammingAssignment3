@@ -5,7 +5,7 @@
 | ------------------- | --------------------------------------------------------- |
 | url | Location of the Data File to download |
 | f | File path of the Data File to download |
-| ColumnName | Data Frame with the Column Names from file ./UCI HAR Dataset/features.txt |
+| ColumnName | Data Frame with List of all features from file ./UCI HAR Dataset/features.txt |
 | activity_labels | Data Frame with the Activity Lables from file ./UCI HAR Dataset/activity_labels.txt |
 | dfX_Test | Data Frame with the X info from file ./UCI HAR Dataset/test/X_test.txt |
 | dfy_Test | Data Frame with the y info from file ./UCI HAR Dataset/test/y_test.txt |
@@ -16,10 +16,18 @@
 | dfSubject_Train | Data Frame with the Subjects from file ./UCI HAR Dataset/train/subject_test.txt |
 | dfTrain | Data Frame with the data from the 3 previous Data Frames |
 | data | Data Frame binding the dfTest and dfTrain Varaibles |
+| tidy_data | Data Frame with the Tidy Data |
 
-## Data
+## Data Source
+| *File* | *Description* |
+| ---------------------------- | --------------------------------------------------------- |
+| ./UCI HAR Dataset/features.txt | List of all features |
+| ./UCI HAR Dataset/activity_labels.txt | Links the class labels with their activity name |
+| ./UCI HAR Dataset/test/X_test.txt | Training set |
+| ./UCI HAR Dataset/test/y_test.txt | Training labels |
+| ./UCI HAR Dataset/train/X_train.txt | Test set |
+| ./UCI HAR Dataset/train/y_train.txt | Test Label |
 
-## Output
 
 ## Summaries
 ```
