@@ -3,10 +3,10 @@
 ## Analysis Files
 
 | #             | File Name           | Description |
-| ------------- | ------------------- | ------------------------ |
-| col 3 is      | assignment3.R | $1600 |
-| col 2 is      | README.md |   $12 |
-| zebra stripes | CodeBook.md |    $1 |
+| --- | ------------------- | ------------------------ |
+| 1 | assignment3.R | $1600 |
+| 2 | README.md |   $12 |
+| 3 | CodeBook.md |    $1 |
 
 | N  | File Name     | Description |
 | -- | ------------- | ----------- |
