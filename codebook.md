@@ -7,7 +7,15 @@
 | f | File path of the Data File to download |
 | ColumnName | Data Frame with the Column Names from file ./UCI HAR Dataset/features.txt |
 | activity_labels | Data Frame with the Activity Lables from file ./UCI HAR Dataset/activity_labels.txt |
-
+| dfX_Test | Data Frame with the X info from file ./UCI HAR Dataset/test/X_test.txt |
+| dfy_Test | Data Frame with the y info from file ./UCI HAR Dataset/test/y_test.txt |
+| dfSubject_Test | Data Frame with the Subjects from file ./UCI HAR Dataset/test/subject_test.txt |
+| dfTest | Data Frame with the data from the 3 previous Data Frames |
+| dfX_Train | Data Frame with the X info from file ./UCI HAR Dataset/train/X_train.txt |
+| dfy_Train | Data Frame with the y info from file ./UCI HAR Dataset/train/y_train.txt |
+| dfSubject_Train | Data Frame with the Subjects from file ./UCI HAR Dataset/train/subject_test.txt |
+| dfTrain | Data Frame with the data from the 3 previous Data Frames |
+| data | Data Frame binding the dfTest and dfTrain Varaibles |
 
 ## Data
 
