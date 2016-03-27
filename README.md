@@ -4,9 +4,10 @@
 
 | *#* | *File Name* | *Description* |
 | --- | ------------------- | ------------------------ |
-| 1 | assignment3.R | $1600 |
-| 2 | README.md |   $12 |
-| 3 | CodeBook.md |    $1 |
+| 1 | run_analysis.R | R script |
+| 2 | README.md | Readme File |
+| 3 | CodeBook.md | Code Book File |
+| 4 | tidy_data.txt | Tidy Data File |
 
 ## Instructions 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
