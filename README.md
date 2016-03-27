@@ -3,13 +3,13 @@
 ## Analysis Files
 
 | #             | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| ------------- | ------------- | -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
 | N  | File Name     | Description |
-| -- |:--------------|:------------|
+| -- | ------------- | ----------- |
 | 1  | assignment3.R | x           |
 | 2  | README.md     | x           |
 | 3  | CodeBook.md   | x           |
