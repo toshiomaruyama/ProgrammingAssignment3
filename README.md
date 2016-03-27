@@ -1,5 +1,12 @@
 # ProgrammingAssignment3
 
+## Analysis Files
+| # | File Name | Description |
+|1| assignment3.R| |
+|2| README.md| |
+|3| CodeBook.md| |
+
+
 ## Instructions 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
