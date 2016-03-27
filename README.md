@@ -2,10 +2,10 @@
 
 ## Analysis Files
 
-| #             | Are           | Cool  |
-| ------------- | ------------- | -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| #             | File Name           | Cool  |
+| ------------- | ------------------- | -----:|
+| col 3 is      | assignment3.R | $1600 |
+| col 2 is      | README.md      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
 | N  | File Name     | Description |
