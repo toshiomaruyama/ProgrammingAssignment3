@@ -2,18 +2,11 @@
 
 ## Analysis Files
 
-| #             | File Name           | Description |
+| *#* | *File Name* | *Description* |
 | --- | ------------------- | ------------------------ |
 | 1 | assignment3.R | $1600 |
 | 2 | README.md |   $12 |
 | 3 | CodeBook.md |    $1 |
-
-| N  | File Name     | Description |
-| -- | ------------- | ----------- |
-| 1  | assignment3.R | x           |
-| 2  | README.md     | x           |
-| 3  | CodeBook.md   | x           |
-
 
 ## Instructions 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
