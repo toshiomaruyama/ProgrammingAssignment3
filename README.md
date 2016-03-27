@@ -2,9 +2,9 @@
 
 ## Analysis Files
 | # | File Name | Description |
-|1| assignment3.R| |
-|2| README.md| |
-|3| CodeBook.md| |
+| 1 | assignment3.R | |
+| 2 | README.md | |
+| 3 | CodeBook.md | |
 
 
 ## Instructions 
